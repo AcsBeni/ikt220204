@@ -5,3 +5,4 @@
 # en is meghivtalak fogadd el
 # asd
 # de irj is valamit a repomba
+# Vs bejegyzés megnyitás
