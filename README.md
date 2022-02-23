@@ -8,4 +8,4 @@
 # Vs bejegyzés megnyitás
 # <small> müködni pls </small>
 # valami
-# otthon
+# otthon less go
