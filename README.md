@@ -10,3 +10,4 @@
 # valami s
 # valami
 # otthon less go
+# k + ratio
