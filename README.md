@@ -7,4 +7,4 @@
 # de irj is valamit a repomba
 # Vs bejegyzés megnyitás
 # <small> müködni pls </small>
-# valami
+# valami s
