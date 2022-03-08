@@ -10,4 +10,4 @@
 # valami s
 # valami
 # otthon less go
-# k + ratio
+# Zed, the fed ex
