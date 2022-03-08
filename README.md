@@ -3,7 +3,7 @@
 # szioka ;)
 # Bro what
 # en is meghivtalak fogadd el
-# asd
+# a
 # de irj is valamit a repomba
 # Vs bejegyzés megnyitás
 # <hr> <small> müködni <p> pls </p> </small> 
