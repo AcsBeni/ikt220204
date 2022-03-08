@@ -6,7 +6,7 @@
 # asd
 # de irj is valamit a repomba
 # Vs bejegyzés megnyitás
-# <small> müködni <p> pls </p> </small>
+# <small> <hr> müködni <p> pls </p> </hr> </small>
 # valami
 # otthon less go
 # Zed, the fed ex
